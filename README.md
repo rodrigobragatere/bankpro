@@ -19,3 +19,11 @@ O **Analisador de Frases** é um sistema web simples desenvolvido em Java utiliz
 - Comunicações entre cliente e servidor via Web Services.
 
 ## Estrutura do Projeto
+
+## Instalação
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu_usuario/analisador-frases.git
+## Navegue até o diretório do projeto:  
+cd analisador-frases
+
