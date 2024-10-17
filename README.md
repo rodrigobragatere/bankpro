@@ -22,7 +22,7 @@ O **Analisador de Frases** é um sistema web simples desenvolvido em Java utiliz
 - Comunicações entre cliente e servidor via Web Services.
 
 ## Estrutura do Projeto
-![Logo do Analisador de Frases](src/main/webapp/bankpro.png)
+![Logo do Analisador de Frases](src/main/webapp/tela.png)
 
 ## Instalação
 1. Clone o repositório:
