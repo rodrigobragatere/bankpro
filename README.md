@@ -30,8 +30,8 @@ cd analisador-frases
 ## Compile e empacote o projeto usando Maven:
 mvn clean install
 
-##Desploe o arquivo WAR gerado na pasta target no servidor WildFly.
+## Desploe o arquivo WAR gerado na pasta target no servidor WildFly.
 
-##Acesse a aplicação pelo navegador em 
+## Acesse a aplicação pelo navegador em 
  ```bash
 http://localhost:8080/bankpro-1.0-SNAPSHOT/index.xhtml
