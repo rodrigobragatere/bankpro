@@ -1,5 +1,9 @@
 # Analisador de Frases
 
+### Observações
+- **Texto alternativo da imagem**: Essa parte é importante para acessibilidade e aparecerá se a imagem não puder ser carregada.
+- **URL_da_imagem**: Certifique-se de que o caminho da imagem está correto em relação à estrutura do seu repositório. Se a imagem estiver na raiz do repositório, você pode usar simplesmente `bankpro.png`.
+
 ![Logo do Analisador de Frases](bankpro.png)
 
 ## Descrição
@@ -37,3 +41,7 @@ mvn clean install
 ## Acesse a aplicação pelo navegador em 
  ```bash
 http://localhost:8080/bankpro-1.0-SNAPSHOT/index.xhtml
+
+
+
+
