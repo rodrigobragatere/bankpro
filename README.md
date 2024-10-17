@@ -35,6 +35,3 @@ mvn clean install
 ##Acesse a aplicação pelo navegador em 
  ```bash
 http://localhost:8080/bankpro-1.0-SNAPSHOT/index.xhtml
-
-
-
