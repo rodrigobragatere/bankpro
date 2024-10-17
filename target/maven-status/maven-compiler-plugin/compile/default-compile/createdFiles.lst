@@ -1,0 +1,5 @@
+com\bankpro\analisador\beans\AnalisadorFraseBean.class
+com\bankpro\analisador\service\AnalisadorFraseService.class
+com\bankpro\JAXRSConfiguration.class
+com\bankpro\analisador\model\ResultadoAnalise.class
+com\bankpro\resources\JavaEE8Resource.class
