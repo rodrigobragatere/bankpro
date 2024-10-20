@@ -1,6 +1,7 @@
 # Analisador de Frases
 
 ![Logo do Analisador de Frases](target/bankpro-1.0-SNAPSHOT/bankpro.png)
+src/main/webapp
 
 ## Descrição
 O **Analisador de Frases** é um sistema web simples desenvolvido em Java utilizando JSF, PrimeFaces, e Hibernate. O projeto permite que os usuários insiram uma frase e obtenham a contagem de palavras distintas e suas respectivas ocorrências.
@@ -21,6 +22,7 @@ O **Analisador de Frases** é um sistema web simples desenvolvido em Java utiliz
 - Comunicações entre cliente e servidor via Web Services.
 
 ## Estrutura do Projeto
+![Logo do Analisador de Frases](src/main/webapp/tela.png)
 
 ## Instalação
 1. Clone o repositório:
